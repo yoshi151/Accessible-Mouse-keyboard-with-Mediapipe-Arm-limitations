@@ -3,7 +3,7 @@ This Python application facilitates mouse and keyboard control on a computer, sp
 <br><br>
 
 <u><strong>Demo</strong></u><br>
-A demo video is available on YouTube.
+A demo video is available on <a href="https://www.youtube.com/watch?v=GSMbWR6Fl08" target="_blank">YouTube</a>.
 
 <u><strong>Problems</strong></u><br>
 Many of the arm disabled people find it difficult to control mouse and keyboard,<br>
